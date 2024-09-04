@@ -8,3 +8,5 @@ In Module 9 you will find a folder called EmployeeSQL, withing that folder you h
 - A png file name Data Modeling ERD Sketch which is just the sketch from quickdb.
 
 - A sql file named data_engineering which is the file with the query on how to create the tables. Once they were created, I uploaded the data from the original CSV file one at a time.
+
+I had some questions so I got some help with the organziation of the tables from my instructor and collobrated errors with classmates. 
